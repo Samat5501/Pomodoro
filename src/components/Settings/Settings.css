@@ -1,0 +1,37 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.settings_main{
+    text-align: center;
+    height: 900px;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+
+.modal-content{
+    border-radius: 20px;
+}
+
+.settings__container{
+    background: rgba(95,194,194,.9);
+    padding: 50px 0px 20px 0px;
+    
+}
+h4{
+    font-size: 18px;
+    font-weight: 200;
+    padding-top: 20px;
+}
+input{
+    width: 270px;
+}
+input{
+    text-align: center;
+}
+.text{
+    padding-top: 20px;
+}
+.checked{
+   width: 25px;
+   height: 25px;
+   margin-top: 15px;
+}

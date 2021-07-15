@@ -1,0 +1,48 @@
+.container{
+    margin-top: 50px;
+    width: 900px;
+    height: 640px;
+    margin:  auto
+}
+.button{
+    width: 140px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgb(218, 135, 135);
+}
+
+.controls{
+    position: absolute;
+    margin: 2px;
+    width: 200px;
+}
+
+.custom-control{
+  /* background-color: yellow; */
+  width: 4rem;
+  height: 4rem;
+}
+
+.custom-play-pause{
+  /* background-color: red; */
+  width: 4rem;
+  height: 2rem;
+}
+
+.control-button{
+    width: 220px;
+    height: 120px;
+}
+
+.custom-time-text{
+  color: purple;
+}
+
+.custom-slider-track{
+  width: 400px;
+  height: 10px;
+}
+
+.time-track{
+    width: 200px;
+}
