@@ -51,7 +51,7 @@ function Main() {
         if (timerRunning && minuteSecond > 0) {
             count = setInterval(() => {
                 dispatch(decrease_time())
-        }, 10)
+        }, 1000)
         } else if (timerRunning && minuteSecond === 0) {
             audio.play();
         if (interval === 'Session') {
