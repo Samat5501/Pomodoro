@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Pomodoro/static/css/main.c06a5c25.chunk.css",
+    "main.js": "/Pomodoro/static/js/main.c9de9cc1.chunk.js",
+    "main.js.map": "/Pomodoro/static/js/main.c9de9cc1.chunk.js.map",
+    "runtime-main.js": "/Pomodoro/static/js/runtime-main.202035c3.js",
+    "runtime-main.js.map": "/Pomodoro/static/js/runtime-main.202035c3.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Pomodoro/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.919b9b24.chunk.js": "/Pomodoro/static/js/2.919b9b24.chunk.js",
+    "static/js/2.919b9b24.chunk.js.map": "/Pomodoro/static/js/2.919b9b24.chunk.js.map",
+    "index.html": "/Pomodoro/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Pomodoro/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.c06a5c25.chunk.css.map": "/Pomodoro/static/css/main.c06a5c25.chunk.css.map",
+    "static/js/2.919b9b24.chunk.js.LICENSE.txt": "/Pomodoro/static/js/2.919b9b24.chunk.js.LICENSE.txt",
+    "static/media/ride.44e63854.wav": "/Pomodoro/static/media/ride.44e63854.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.202035c3.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.919b9b24.chunk.js",
+    "static/css/main.c06a5c25.chunk.css",
+    "static/js/main.c9de9cc1.chunk.js"
+  ]
+}
